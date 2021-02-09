@@ -1,5 +1,5 @@
 {
-products: [
+"products": [
 {"id":1,"name":"Red-legged pademelon","category":"Blue"},
 {"id":2,"name":"Andean goose","category":"Pink"},
 {"id":3,"name":"Drongo, fork-tailed","category":"Pink"},
